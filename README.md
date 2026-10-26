@@ -1,0 +1,2 @@
+# Hosting Competitor Pricing Intelligence
+
