@@ -1,0 +1,15 @@
+provider,status,note
+GoDaddy,Included,Official page fetched; price verified
+HostArmada,Included,Official page fetched; price verified
+Namecheap,Included,Official page fetched on second URL form (trailing slash); first form was bot-blocked
+Hostinger,Included (tier B),Official hostinger.com/web-hosting excerpt via search index; page not fetched in full
+Hostedium,Included,Official hosting page fetched; term/renewal not stated
+HostCry,Included (replacement),Official Pakistan plan page fetched; added as Pakistani replacement
+HostGator,Excluded - price unverified,Official /pricing fetched but price fields unrendered ($XX); /web-hosting.html is stale 2018 content; checkout URL returned empty shell. Third-party quotes ($3.75 intro/$10.99 renewal) NOT used.
+Bluehost,Excluded - price unverified,Only blog excerpt on official domain (renewal figures without plan names/intro) and an old hosting/shared stub without prices
+DreamHost,Excluded - plan discontinued,Official help article states Shared Starter is no longer available for purchase; current replacement plan not retrieved
+InMotion Hosting,Excluded - unverified,Only third-party results returned; official page not retrieved
+Hostbreak,Excluded - unverified,Only third-party results returned; hostbreak.com plan page not retrievable
+HostNoc,Excluded - unverified,Only a dedicated-server page surfaced; shared pricing page not retrieved
+HosterPK,Excluded - stale,"Official /hostingplans result flagged ~1,382 days old"
+Host.com.pk,Excluded - incomplete,"Official excerpt shows Bronze Rs 4,499/yr, 1 GB, free domain but no renewal/feature detail; not fetched"

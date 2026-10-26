@@ -1,0 +1,11 @@
+provider,source_url,purpose,evidence_tier,verification_date,evidence_note
+Namecheap,https://www.namecheap.com/hosting/shared/,"Price, plan, features",A - fetched in full,2026-10-26,Stellar $1.98/mo; you pay $22.88; renews $44.88/yr
+Hostinger,https://www.hostinger.com/web-hosting,"Price, plan, features",B - official excerpt via search index,2026-10-26,"Premium $2.49/mo 48 mo, $119.52, renews $10.99/mo"
+Hostedium,https://www.hostedium.com/hosting/,"Price, plan, features",A - fetched in full,2026-10-26,Budget PKR 799/mo; 1 GB SSD; unlimited sites
+Hostedium,https://www.hostedium.com/web-hosting-prices-in-pakistan-pkr/,"Supporting: backups claim, Pakistani peer context","A - fetched; editorial, not used for prices",2026-10-26,Provider blog; peer prices there are not used
+HostCry,https://hostcry.com/plan,"Price, plan, features",A - fetched in full,2026-10-26,"Starter Rs 1,500/12 mo; renewal Rs 2,499/yr"
+GoDaddy,https://www.godaddy.com/hosting/web-hosting,"Price, plan, features",A - fetched in full,2026-10-26,"Official US page; Economy $5.99 first 3-yr term, $11.99 struck-through"
+HostArmada,https://hostarmada.com/pricing/,"Price, plan, features",A - fetched in full,2026-10-26,"Official page; Start Dock $2.15/mo annual, regular $11.95/mo"
+PKHosting,https://www.pkhosting.com/,"Baseline plans, prices, features",A - fetched in full,2026-10-26,"Personal Rs699/mo; annual Rs6,990; 1 site; 5 GB SSD"
+HostGator,https://www.hostgator.com/pricing,Plan/feature check (EXCLUDED from pricing CSV),A - fetched; prices not rendered,2026-10-26,Page shows Hatchling 10 sites/10 GB SSD/36-month term but price fields read $XX/$X.XX in fetched HTML
+HostGator,https://www.hostgator.com/web-hosting.html,Stale page check (EXCLUDED),A - fetched; stale,2026-10-26,Page content dated 2018 comparison chart; not used as current price

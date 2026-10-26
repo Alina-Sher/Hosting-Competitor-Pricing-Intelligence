@@ -1,0 +1,26 @@
+PASS All CSVs parse
+FAIL Exactly 15 competitor rows (REQUIRED) - found 6
+PASS No duplicate providers
+PASS Feature matrix covers same providers as pricing
+PASS No blank pricing fields - []
+PASS No 'Not verified' values - []
+PASS Every pricing URL is in source register
+PASS Every pricing URL is on provider's own domain
+PASS Currency explicit and single-valued per row
+PASS Derived upfront/monthly values reproduce from inputs - []
+PASS Intro and renewal kept separate (equal only where provider states no renewal hike) - []
+PASS Commitment disclosed for every row
+PASS Verification dates are valid ISO dates
+PASS GoDaddy has complete verified pricing record
+FAIL HostGator has complete verified pricing record
+PASS PKHosting baseline has 3 plans
+PASS README relative links exist - []
+PASS CHANGELOG.md exists
+PASS report/competitive_positioning_report.md exists
+PASS report/executive_summary.md exists
+PASS report/methodology.md exists
+PASS Report mentions every provider in pricing CSV
+PASS Report has >=5 recommendations
+
+SUMMARY: 21 passed, 2 failed
+FAILED CHECKS: Exactly 15 competitor rows (REQUIRED); HostGator has complete verified pricing record
